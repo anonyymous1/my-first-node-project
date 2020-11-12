@@ -6,3 +6,5 @@ function printName (person) {
 }
 
 console.log(printName(name));
+
+console.log(beBasic());
